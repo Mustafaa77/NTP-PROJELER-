@@ -1,7 +1,0 @@
-C:\Users\USER\source\repos\mayıntarlası\mayıntarlası\bin\Debug\mayıntarlası.exe.config
-C:\Users\USER\source\repos\mayıntarlası\mayıntarlası\bin\Debug\mayıntarlası.exe
-C:\Users\USER\source\repos\mayıntarlası\mayıntarlası\bin\Debug\mayıntarlası.pdb
-C:\Users\USER\source\repos\mayıntarlası\mayıntarlası\obj\Debug\mayıntarlası.csprojAssemblyReference.cache
-C:\Users\USER\source\repos\mayıntarlası\mayıntarlası\obj\Debug\mayıntarlası.csproj.CoreCompileInputs.cache
-C:\Users\USER\source\repos\mayıntarlası\mayıntarlası\obj\Debug\mayıntarlası.exe
-C:\Users\USER\source\repos\mayıntarlası\mayıntarlası\obj\Debug\mayıntarlası.pdb
