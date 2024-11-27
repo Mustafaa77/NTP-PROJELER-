@@ -1,0 +1,7 @@
+C:\Users\USER\source\repos\NTP6_0\NTP6_0\obj\Debug\NTP6_0.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\NTP6_0\NTP6_0\obj\Debug\NTP6_0.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\NTP6_0\NTP6_0\bin\Debug\NTP6_0.exe.config
+C:\Users\USER\source\repos\NTP6_0\NTP6_0\bin\Debug\NTP6_0.exe
+C:\Users\USER\source\repos\NTP6_0\NTP6_0\bin\Debug\NTP6_0.pdb
+C:\Users\USER\source\repos\NTP6_0\NTP6_0\obj\Debug\NTP6_0.exe
+C:\Users\USER\source\repos\NTP6_0\NTP6_0\obj\Debug\NTP6_0.pdb
