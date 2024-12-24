@@ -1,0 +1,7 @@
+C:\Users\USER\source\repos\NTP8_3\NTP8_3\obj\Debug\NTP8_3.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\NTP8_3\NTP8_3\obj\Debug\NTP8_3.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\NTP8_3\NTP8_3\bin\Debug\NTP8_3.exe.config
+C:\Users\USER\source\repos\NTP8_3\NTP8_3\bin\Debug\NTP8_3.exe
+C:\Users\USER\source\repos\NTP8_3\NTP8_3\bin\Debug\NTP8_3.pdb
+C:\Users\USER\source\repos\NTP8_3\NTP8_3\obj\Debug\NTP8_3.exe
+C:\Users\USER\source\repos\NTP8_3\NTP8_3\obj\Debug\NTP8_3.pdb
